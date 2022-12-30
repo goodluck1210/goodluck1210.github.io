@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function isMobileDevice() {\n  return typeof window.orientation !== 'undefined' || navigator.userAgent.indexOf('IEMobile') !== -1;\n}","map":null,"metadata":{},"sourceType":"module"}

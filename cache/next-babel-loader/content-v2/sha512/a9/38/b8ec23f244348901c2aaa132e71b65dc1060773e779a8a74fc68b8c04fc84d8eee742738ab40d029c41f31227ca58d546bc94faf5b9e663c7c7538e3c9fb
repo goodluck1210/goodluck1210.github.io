@@ -1,0 +1,1 @@
+{"ast":null,"code":"var en = require(\"./translations.en.json\");\n\nvar de = require(\"./translations.de.json\");\n\nvar i18n = {\n  translations: {\n    en: en,\n    de: de\n  },\n  defaultLang: \"en\",\n  useBrowserDefault: true\n};\nmodule.exports = i18n;","map":null,"metadata":{},"sourceType":"script"}

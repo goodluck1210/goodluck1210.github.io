@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const userAgent = () => {\n  if (false) {\n    return window.navigator.userAgent;\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

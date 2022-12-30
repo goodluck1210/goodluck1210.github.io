@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const NormalizeObjectToArray = data => {\n  const normalizeResult = [];\n  Object.values(data).forEach(item => normalizeResult.push(item));\n  return normalizeResult;\n};","map":null,"metadata":{},"sourceType":"module"}

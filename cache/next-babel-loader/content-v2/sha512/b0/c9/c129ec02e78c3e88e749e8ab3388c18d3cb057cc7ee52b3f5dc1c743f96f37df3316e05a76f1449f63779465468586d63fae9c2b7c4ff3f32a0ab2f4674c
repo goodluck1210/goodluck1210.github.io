@@ -1,0 +1,1 @@
+{"ast":null,"code":"var scrollClientsAboutUsBtn = function scrollClientsAboutUsBtn(id, width) {\n  if (!id) return;\n\n  if (width < 1200) {\n    var el = document.getElementById(id);\n    if (el) el.scrollIntoView({\n      block: 'start',\n      behavior: 'smooth'\n    });\n  }\n};\n\nexport default scrollClientsAboutUsBtn;","map":null,"metadata":{},"sourceType":"module"}

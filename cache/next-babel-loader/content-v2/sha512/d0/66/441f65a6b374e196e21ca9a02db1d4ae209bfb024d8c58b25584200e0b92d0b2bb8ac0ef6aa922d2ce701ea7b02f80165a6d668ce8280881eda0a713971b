@@ -1,0 +1,1 @@
+{"ast":null,"code":"import api from './api';\nexport default class Rating {\n  static rate(id, rate) {\n    return api.post(`/post/rate/${id}`, {\n      rate\n    });\n  }\n\n  static getRate(id) {\n    return api.get(`/post/rate/${id}`);\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}

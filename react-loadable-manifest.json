@@ -1,0 +1,167 @@
+{
+  "..\\node_modules\\react-player\\lazy\\ReactPlayer.js -> ./Preview": {
+    "id": "0ZcZ",
+    "files": [
+      "static/chunks/reactPlayerPreview.1e16426b229ebe3a18a8.js"
+    ]
+  },
+  "..\\node_modules\\react-player\\lazy\\players\\index.js -> ./DailyMotion": {
+    "id": "oKWQ",
+    "files": [
+      "static/chunks/reactPlayerDailyMotion.14b77642b9c4d5680d91.js"
+    ]
+  },
+  "..\\node_modules\\react-player\\lazy\\players\\index.js -> ./Facebook": {
+    "id": "nQ6K",
+    "files": [
+      "static/chunks/reactPlayerFacebook.1175f71b593b633e8933.js"
+    ]
+  },
+  "..\\node_modules\\react-player\\lazy\\players\\index.js -> ./FilePlayer": {
+    "id": "Nn5g",
+    "files": [
+      "static/chunks/reactPlayerFilePlayer.cda9e7a1d06353c2e2d4.js"
+    ]
+  },
+  "..\\node_modules\\react-player\\lazy\\players\\index.js -> ./Kaltura": {
+    "id": "4Xmi",
+    "files": [
+      "static/chunks/reactPlayerKaltura.7ecd28e17b5d0c57fcf9.js"
+    ]
+  },
+  "..\\node_modules\\react-player\\lazy\\players\\index.js -> ./Mixcloud": {
+    "id": "eywx",
+    "files": [
+      "static/chunks/reactPlayerMixcloud.0dfc1236003787cc77c6.js"
+    ]
+  },
+  "..\\node_modules\\react-player\\lazy\\players\\index.js -> ./SoundCloud": {
+    "id": "W6fG",
+    "files": [
+      "static/chunks/reactPlayerSoundCloud.e37acc3720739e4e0ca3.js"
+    ]
+  },
+  "..\\node_modules\\react-player\\lazy\\players\\index.js -> ./Streamable": {
+    "id": "v4zF",
+    "files": [
+      "static/chunks/reactPlayerStreamable.fd688b4d6ace40105cb6.js"
+    ]
+  },
+  "..\\node_modules\\react-player\\lazy\\players\\index.js -> ./Twitch": {
+    "id": "Vzir",
+    "files": [
+      "static/chunks/reactPlayerTwitch.9acb83664f4cb6ae52ac.js"
+    ]
+  },
+  "..\\node_modules\\react-player\\lazy\\players\\index.js -> ./Vidyard": {
+    "id": "WvJM",
+    "files": [
+      "static/chunks/reactPlayerVidyard.3043df69a79db9bcdb23.js"
+    ]
+  },
+  "..\\node_modules\\react-player\\lazy\\players\\index.js -> ./Vimeo": {
+    "id": "VkHn",
+    "files": [
+      "static/chunks/reactPlayerVimeo.8ed12b6e193d70ea49bb.js"
+    ]
+  },
+  "..\\node_modules\\react-player\\lazy\\players\\index.js -> ./Wistia": {
+    "id": "3yWd",
+    "files": [
+      "static/chunks/reactPlayerWistia.82bbe0fcf86f07613eb3.js"
+    ]
+  },
+  "..\\node_modules\\react-player\\lazy\\players\\index.js -> ./YouTube": {
+    "id": "5RnD",
+    "files": [
+      "static/chunks/reactPlayerYouTube.565bf363f74a79fcaea6.js"
+    ]
+  },
+  "blog\\[id]\\index.js -> ../../../components/Article/RelatedPosts/RelatedPosts": {
+    "id": "ckEW",
+    "files": [
+      "static/css/764ae85dd0e620584346.css",
+      "static/chunks/72.2567b5a0da34ed27f84d.js"
+    ]
+  },
+  "blog\\[id]\\index.js -> ../../../components/ReusableComponents/CTA/CTA": {
+    "id": "E0DC",
+    "files": [
+      "static/chunks/b9a63694c823cbd5621c4578fd92b484c8082297.93a4e29180a0ed74d6d2.js",
+      "static/css/7687ff26ab8147ea0741.css",
+      "static/chunks/68.c6bececf7ffec5151174.js"
+    ]
+  },
+  "index.js -> ../components/HomePage/BusinessPains/BusinessPains": {
+    "id": "lyWB",
+    "files": [
+      "static/chunks/commons.0ccdfc9795827de36215.js",
+      "static/chunks/9b900f4b0666b5003e01c220cb8b0280bf504987.e20368b197dc3d0e0166.js",
+      "static/css/413420737db947bb55d5.css",
+      "static/chunks/70.e11aa46a06e7ab5e1ae9.js"
+    ]
+  },
+  "index.js -> ../components/HomePage/Header/Header": {
+    "id": "v9K6",
+    "files": [
+      "static/chunks/commons.0ccdfc9795827de36215.js",
+      "static/css/418130ec8f71d9bfeed2.css",
+      "static/chunks/64.51ed2bcf1efc156bd922.js"
+    ]
+  },
+  "index.js -> ../components/HomePage/Reasons/HomeReasons": {
+    "id": "mWJt",
+    "files": [
+      "static/chunks/commons.0ccdfc9795827de36215.js",
+      "static/css/2dd714a97eabae4c292f.css",
+      "static/chunks/69.994fc9e2cbfd7d5c229f.js"
+    ]
+  },
+  "index.js -> ../components/HomePage/Reviews/Reviews": {
+    "id": "obpT",
+    "files": [
+      "static/chunks/commons.0ccdfc9795827de36215.js",
+      "static/chunks/9b900f4b0666b5003e01c220cb8b0280bf504987.e20368b197dc3d0e0166.js",
+      "static/css/b2b6d4a11d7ecb57e323.css",
+      "static/chunks/71.64a1c46e2966158c271b.js"
+    ]
+  },
+  "index.js -> ../components/HomePage/Services/Services": {
+    "id": "pQg0",
+    "files": [
+      "static/chunks/commons.0ccdfc9795827de36215.js",
+      "static/chunks/9b900f4b0666b5003e01c220cb8b0280bf504987.e20368b197dc3d0e0166.js",
+      "static/css/0f5763ff3053a4bd9fb6.css",
+      "static/chunks/65.2d81981caeeefe255b90.js"
+    ]
+  },
+  "index.js -> ../components/HomePage/Video/Video": {
+    "id": "1rkf",
+    "files": [
+      "static/chunks/framework.48a441fb05b6de80f4b9.js",
+      "static/chunks/commons.0ccdfc9795827de36215.js",
+      "static/chunks/9096a25d4b26b8c82da761ba0ca1da6ae0ad19a0.ddd93c794e9f694a92d9.js",
+      "static/css/04beb8336a0576a8c932.css",
+      "static/chunks/73.89d4e07df2e316e51cca.js"
+    ]
+  },
+  "index.js -> ../components/ReusableComponents/CTA/CTA": {
+    "id": "E0DC",
+    "files": [
+      "static/chunks/framework.48a441fb05b6de80f4b9.js",
+      "static/chunks/commons.0ccdfc9795827de36215.js",
+      "static/chunks/0e65617b741fee4befb350682846ba35995c824c.44270d355cb1193c96c8.js",
+      "static/chunks/03bae18b490c72248c321b0a15686bad4ccfbd8b.ef6d4bdb25022506c107.js",
+      "static/css/c477a81b6038e0ab73c9.css",
+      "static/chunks/67.77e8f0c6077806776edc.js"
+    ]
+  },
+  "index.js -> ../components/ReusableComponents/SuccessStories/SuccessStories": {
+    "id": "deDR",
+    "files": [
+      "static/chunks/commons.0ccdfc9795827de36215.js",
+      "static/css/c020b896788e913fec68.css",
+      "static/chunks/66.aa4d4b3b0a4f71cabad6.js"
+    ]
+  }
+}

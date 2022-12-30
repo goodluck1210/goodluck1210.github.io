@@ -1,0 +1,1 @@
+{"ast":null,"code":"import axios from \"axios\";\nimport { API_URL } from \"../config/constants\";\nvar api = axios.create({\n  baseURL: API_URL\n});\nexport default api;","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import api from './api';\nexport default class SendLastPost {\n  static send(payload) {\n    api.post('/api/post/trigger-create-new-post', payload);\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}

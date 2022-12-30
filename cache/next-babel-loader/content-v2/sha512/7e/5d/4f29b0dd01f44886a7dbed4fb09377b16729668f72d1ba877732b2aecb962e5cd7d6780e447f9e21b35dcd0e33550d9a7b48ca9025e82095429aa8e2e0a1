@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var userAgent = function userAgent() {\n  if (true) {\n    return window.navigator.userAgent;\n  }\n};","map":null,"metadata":{},"sourceType":"module"}
